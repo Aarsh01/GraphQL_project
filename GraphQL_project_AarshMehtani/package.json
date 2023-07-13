@@ -1,0 +1,24 @@
+{
+  "name": "graphqp_project_aarshmehtani",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Aarsh",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.7.1",
+    "lodash": "^4.17.21",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.3.2",
+    "prompt-sync": "^4.2.0",
+    "react-scripts": "^4.0.3"
+  },
+  "keywords": [],
+  "description": ""
+}
